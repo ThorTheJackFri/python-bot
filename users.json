@@ -1,24 +1,16 @@
 {
-    "checkin": {
+    "123456789": {
+        "username": "user1",
+        "preferences": {
+            "notify_on_upload": true,
+            "default_folder": "uploads"
+        }
     },
-    "withd": {
-    },
-    "DailyQuiz": {
-    },
-    "id": {
-    },
-    "total": 0,
-    "referred": {
-    },
-    "referby": {
-    },
-    "balance": {
-    },
-    "wallet": {
-    },
-    "refer": {
-    },
-    "totalwith": 0
+    "987654321": {
+        "username": "user2",
+        "preferences": {
+            "notify_on_upload": false,
+            "default_folder": "downloads"
+        }
+    }
 }
-
-
